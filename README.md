@@ -1,11 +1,11 @@
 <div align="center">
 
-# Привет, я v1ewy
+# 🔴 Привет, я v1ewy
 
 **Novice Developer studying Automation Security Engineering**
 
 <p align="center">
-  <a href="https://t.me">
+  <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram" />
   </a>
 </p>
@@ -14,12 +14,12 @@
 
 ### 🛠️ Стек технологий и инструменты
 
-<!-- Мы используем встроенный в маркдаун синтаксис картинок, без лишних пробелов -->
-![Python](https://shields.io)
-![C](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
-![Security](https://shields.io)
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="C" />
+<img src="https://shields.io" alt="Linux" />
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="Obsidian" />
+<img src="https://shields.io" alt="Security" />
 
 </div>
 
@@ -28,8 +28,10 @@
 * 🐍 **Разработка**: Создаю автоматизированные утилиты и скрипты анализа (например, анализатор частотности `Cryptanalyzer`).
 * 📊 **Структурирование знаний**: Веду локальную базу знаний по ИБ, сетям и системному администрированию в Obsidian.
 
+---
+
 ### 📉 Статистика активности
-<!-- Заменяем упавший vercel-сервис на альтернативный стабильный генератор графиков -->
+
 <div align="center">
   <img src="https://vercel.app" alt="v1ewy activity graph" />
 </div>
@@ -37,5 +39,5 @@
 <br />
 
 <div align="center">
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Status" />
 </div>
