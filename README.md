@@ -2,19 +2,21 @@
 <img src="./assets/matrix_rain.svg" width="700"/>
 </div>
 
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 
-<img src="./assets/photo.png" width="170" style="border-radius:50%;border:3px solid #ff0000;" alt="v1ewy"/>
+<img src="./assets/photo.png" width="220" style="border-radius:50%;border:3px solid #ff0000;" alt="v1ewy"/>
 
-<br/><br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=650&lines=v1ewy;security+%2B+systems+%2B+networks;break+it+down+to+understand+it)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=v1ewy&label=TRACE&style=for-the-badge&color=0d0d0d&labelColor=000000)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ff0000)](https://t.me/v1ewy)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/v1ewy?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ff0000)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ff0000)](https://tryhackme.com/p/v1ewyd1ce)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000)](mailto:fo4ikvanka@gmail.com)
 
 </div>
 
@@ -32,7 +34,7 @@
 <summary>👀 secret.txt</summary>
 <br/>
 <div align="center">
-<img src="./assets/photo_alt.png" width="160" style="border-radius:50%;border:2px solid #ff0000;"/>
+<img src="./assets/photo_alt.png" width="260" style="border-radius:50%;border:2px solid #ff0000;"/>
 </div>
 </details>
 
@@ -40,21 +42,20 @@
 
 ## `./stack`
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff0000)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff0000)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ff0000)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000)
 
 <br/>
 
 ## `./featured`
 
-| repo | описание | stack |
+| repo | description | stack |
 |---|---|---|
-| [example-repo](https://github.com/v1ewy) | краткое описание проекта | `Python` |
-| [example-repo-2](https://github.com/v1ewy) | краткое описание проекта | `C` |
+| [Simly-DataBase](https://github.com/v1ewy/Simly-DataBase) | simple database project | `Python` |
+| [Cryptanalyzer](https://github.com/v1ewy/Cryptanalyzer) | cryptanalysis toolkit | `Python` |
 
 <br/>
 
@@ -75,20 +76,9 @@
 
 ## `./now`
 
-- прокачиваю понимание сетей и внутренностей ОС
-- разбираю железо на практике
-- решаю алгоритмические задачи для тренировки мышления
-
-<br/>
-
-## `./contact`
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000)
-![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ff0000)
-
-</div>
+- leveling up understanding of networks and OS internals
+- going through rooms on THM
+- learning english
 
 <br/>
 
