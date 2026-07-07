@@ -2,13 +2,13 @@
 <img src="./assets/matrix_rain.svg" width="700"/>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div align="center">
 
-<img src="./assets/photo.png" width="220" style="border-radius:50%;border:3px solid #ff0000;" alt="v1ewy"/>
+<img src="./assets/photo_frame.svg" width="260" alt="v1ewy"/>
 
-<br/>
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=650&lines=v1ewy;security+%2B+systems+%2B+networks;break+it+down+to+understand+it)](https://git.io/typing-svg)
 
@@ -34,7 +34,7 @@
 <summary>👀 secret.txt</summary>
 <br/>
 <div align="center">
-<img src="./assets/photo_alt.png" width="260" style="border-radius:50%;border:2px solid #ff0000;"/>
+<img src="./assets/photo_alt.png" width="650"/>
 </div>
 </details>
 
@@ -54,19 +54,14 @@
 
 | repo | description | stack |
 |---|---|---|
-| [Simly-DataBase](https://github.com/v1ewy/Simly-DataBase) | simple database project | `Python` |
-| [Cryptanalyzer](https://github.com/v1ewy/Cryptanalyzer) | cryptanalysis toolkit | `Python` |
+| [Simly-DataBase](https://github.com/v1ewy/Simly-DataBase) | file-based database engine — stores and persists data to disk | `C` |
+| [Cryptanalyzer](https://github.com/v1ewy/Cryptanalyzer) | decryption tool based on letter substitution | `Python` |
 
 <br/>
 
 ## `./telemetry`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=v1ewy&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ewy&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d" height="165"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=v1ewy&theme=dark&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 
