@@ -1,4 +1,10 @@
 <div align="center">
+<img src="./assets/matrix_rain.svg" width="700"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="./assets/photo.png" width="170" style="border-radius:50%;border:3px solid #ff0000;" alt="v1ewy"/>
 
