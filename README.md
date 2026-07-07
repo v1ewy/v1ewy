@@ -2,13 +2,13 @@
 <img src="./assets/matrix_rain.svg" width="700"/>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 <img src="./assets/photo_frame.svg" width="260" alt="v1ewy"/>
 
-<br/><br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=650&lines=v1ewy;security+%2B+systems+%2B+networks;break+it+down+to+understand+it)](https://git.io/typing-svg)
 
