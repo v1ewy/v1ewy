@@ -31,7 +31,7 @@
 <br/>
 
 <details>
-<summary>👀 secret.txt</summary>
+<summary>👀 psswrd.txt</summary>
 <br/>
 <div align="center">
 <img src="./assets/photo_alt.png" width="650"/>
