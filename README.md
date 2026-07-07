@@ -16,19 +16,19 @@
 
 ## `./whoami`
 
-```
-v1ewy@root:~$ cat about.txt
-изучаю инфобез, устройство железа, ОС и сети —
-люблю разбирать системы на части, чтобы понять, как они устроены
-competitive programming — разминка для головы
+<div align="center">
+<img src="./assets/terminal.svg" width="600"/>
+</div>
 
-v1ewy@root:~$ cat focus.txt
-[ ИБ / основы пентеста ]
-[ архитектура железа ]
-[ внутреннее устройство ОС: Linux / Windows internals ]
-[ сети: TCP/IP, маршрутизация, протоколы ]
-[ алгоритмы и структуры данных ]
-```
+<br/>
+
+<details>
+<summary>👀 secret.txt</summary>
+<br/>
+<div align="center">
+<img src="./assets/photo_alt.png" width="160" style="border-radius:50%;border:2px solid #ff0000;"/>
+</div>
+</details>
 
 <br/>
 
