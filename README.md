@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/photo_alt.jpg" width="170" style="border-radius:50%;border:3px solid #ff0000;" alt="v1ewy"/>
+<img src="./assets/photo.png" width="170" style="border-radius:50%;border:3px solid #ff0000;" alt="v1ewy"/>
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 <summary>👀 secret.txt</summary>
 <br/>
 <div align="center">
-<img src="./assets/photo.jpg" width="160" style="border-radius:50%;border:2px solid #ff0000;"/>
+<img src="./assets/photo_alt.png" width="160" style="border-radius:50%;border:2px solid #ff0000;"/>
 </div>
 </details>
 
